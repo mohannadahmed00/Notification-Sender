@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "201467755703",
+    "project_id": "my-chat-app-da217",
+    "storage_bucket": "my-chat-app-da217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201467755703:android:31ae765d37da906f706132",
+        "android_client_info": {
+          "package_name": "com.giraffe.mychatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArIXM__KHFdHVi3eUGDNU6YZuuJf4vFRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201467755703:android:b15732a1b7c26378706132",
+        "android_client_info": {
+          "package_name": "com.giraffe.mynotificationsender"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArIXM__KHFdHVi3eUGDNU6YZuuJf4vFRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
